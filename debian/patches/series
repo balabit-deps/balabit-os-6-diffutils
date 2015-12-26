@@ -1,0 +1,5 @@
+01-workaround-for-failing-gnulib-test
+02-fix-mkdir-p-definition-in-po-makefile-in-in
+03-tune-compare-names-for-qsort
+04-add-escapes-for-braces-in-perl-regex
+99-config-guess-config-sub
